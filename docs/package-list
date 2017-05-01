@@ -1,0 +1,7 @@
+com.ardock.moodapp.moodgen.lib.ui.activities
+com.ardock.moodapp.moodgen.lib.ui.adapters.explistview
+com.ardock.moodapp.moodgen.lib.ui.adapters.listview
+com.ardock.moodapp.moodgen.lib.ui.adapters.slider
+com.ardock.moodapp.moodgen.lib.ui.controls
+com.ardock.moodapp.moodgen.lib.ui.quickactions
+com.ardock.moodapp.moodgen.lib.ui.utils
